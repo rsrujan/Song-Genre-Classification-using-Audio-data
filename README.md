@@ -32,9 +32,3 @@ python extract_features.py
 python train_model.py
 python predict_genre.py test_audio.wav
 ```
-
-## 📬 Contact
-
-**R. Srujan**  
-📧 rsrujan1234@gmail.com  
-🌐 [GitHub](https://github.com/rsrujan)
